@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MAFAgentLab.Core/MAFAgentLab.Core.csproj" />
+    <Project Path="src/MAFAgentLab/MAFAgentLab.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MAFAgentLab.Tests/MAFAgentLab.Tests.csproj" />
+  </Folder>
+</Solution>
